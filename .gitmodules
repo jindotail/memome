@@ -1,0 +1,6 @@
+[submodule "guest-book-backend"]
+	path = guest-book-backend
+	url = https://github.com/jindotail/guest-book-backend.git
+[submodule "guest-book-frontend"]
+	path = guest-book-frontend
+	url = https://github.com/jindotail/guest-book-frontend.git
